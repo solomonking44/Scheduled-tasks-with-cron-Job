@@ -1,0 +1,11 @@
+---
+key: "CronJobAPI-1.0.0"
+name : "CronJobAPI"
+displayName : "CronJobAPI"
+description: "Sample API"
+version: "1.0.0"
+serviceUrl: "https://{MI_HOST}:{MI_PORT}/cron"
+definitionType: "OAS3"
+securityType: "BASIC"
+mutualSSLEnabled: false
+apiId : "null"
